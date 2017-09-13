@@ -5,12 +5,14 @@ Kumar, Naveen, and Shrikanth S. Narayanan. "Hull detection based on largest empt
 
 #### Applications
 
-This idea can be used to correct for head movement in MRI images by tracking invariant points.
+Head movement tracking in MRI images by finding invariant points
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/LQKis_jz3I0/0.jpg)](http://www.youtube.com/watch?v=LQKis_jz3I0 "Head Motion Correction using Landmark Point Detection")
 
 https://www.youtube.com/watch?v=LQKis_jz3I0
 
-![GitHub Logo](/LESA/matlab/example.jpg)
-Format: ![Alt Text](url)
+Another example
+
+![LESA example](/LESA/matlab/example.jpg)
+
