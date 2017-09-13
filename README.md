@@ -16,3 +16,11 @@ Another example
 
 ![LESA example](/LESA/matlab/example.jpg)
 
+Please cite:
+
+@inproceedings{kumar2014largestanglehull,
+author = {Kumar, N., and Narayanan, S.S.},
+title = {Hull Detection Based on Largest Empty Sector Angle with application to analysis of real-time MR images},
+booktitle = {Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on},
+year = {2014},
+}
