@@ -1,7 +1,7 @@
 ### Largest Empty Sector Angle based Hull detection 
 based on the following paper:
 
-Kumar, Naveen, and Shrikanth S. Narayanan. "Hull detection based on largest empty sector angle with application to analysis of realtime mr images." Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014.
+Kumar, Naveen, and Shrikanth S. Narayanan. "Hull detection based on largest empty sector angle with application to analysis of realtime MR images." Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014.
 
 #### Applications
 
